@@ -17,20 +17,18 @@ Student Skill Tracker is a Core Java console-based application that helps studen
 
 - Core Java
 - Object-Oriented Programming (OOP)
-- ArrayList
+- ArrayList & Collection
 - Exception Handling
 - VS Code
 
 ## Project Structure
 
-```
 StudentSkillTracker/
 
 ├── src/
 │   ├── Main.java
 │   ├── Skill.java
 │   └── SkillManager.java
-```
 
 ## How to Run
 
@@ -38,15 +36,11 @@ StudentSkillTracker/
 2. Open the terminal.
 3. Compile the Java files:
 
-```
 javac *.java
-```
 
 4. Run the project:
 
-```
 java Main
-```
 
 ## Future Enhancements
 
@@ -56,5 +50,4 @@ java Main
 - Certificate management
 
 ## Author
-
-Vara Prasad
+Varshini Chilamakuru
