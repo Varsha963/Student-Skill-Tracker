@@ -48,6 +48,3 @@ java Main
 - User login system
 - GUI using JavaFX
 - Certificate management
-
-## Author
-Varshini Chilamakuru
